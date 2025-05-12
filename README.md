@@ -49,7 +49,7 @@ O Event Assistant é um aplicativo móvel desenvolvido em Flutter que ajuda na o
 
 3. Atualize a chave da API OpenAI em `lib/main.dart` com sua própria chave:
    ```dart
-   await LLMService.init('sua-chave-api-openai-aqui');
+   await LLMService.init('sua-chave-api-aqui');
    ```
 
 4. Execute o aplicativo:
